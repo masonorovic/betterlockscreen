@@ -2,8 +2,8 @@
 
 insidecolor=00000000
 ringcolor=ffffffff
-keyhlcolor=d23c3dff
-bshlcolor=d23c3dff
+keyhlcolor=5657f5ff
+bshlcolor=5657f5ff
 separatorcolor=00000000
 insidevercolor=00000000
 insidewrongcolor=d23c3dff
@@ -13,6 +13,6 @@ verifcolor=ffffffff
 timecolor=ffffffff
 datecolor=ffffffff
 loginbox=00000066
-font="sans-serif"
+font="Noto Sans"
 locktext='Type password to unlock...'
 lock_timeout=5
