@@ -7,7 +7,7 @@ Before=suspend.target
 User=%I
 Type=simple
 Environment=DISPLAY=:1
-ExecStart=/home/lukin/bin/betterlockscreen --lock
+ExecStart=/home/lukin/.local/bin/betterlockscreen --lock
 TimeoutSec=infinity
 ExecStartPost=/usr/bin/sleep 1
 
